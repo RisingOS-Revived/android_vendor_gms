@@ -151,7 +151,6 @@ PRODUCT_PACKAGES += \
 # system/priv-app
 PRODUCT_PACKAGES += \
     DocumentsUIGoogle \
-    GooglePackageInstaller \
     TagGoogle
 
 # system_ext/app
